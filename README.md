@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o evento NLW Together da Rocketseat, com foco em prática de desenvolvimento front-end, organização de código e construção de interfaces interativas.  
 A aplicação foi construída acompanhando as aulas do evento, aplicando conceitos modernos de HTML, CSS e JavaScript.
-
+                                      
 ---
 
 ## Funcionalidades
