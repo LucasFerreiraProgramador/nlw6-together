@@ -8,7 +8,7 @@ A aplicação foi construída acompanhando as aulas do evento, aplicando conceit
 ## Funcionalidades
 
 - Interface interativa baseada no projeto do evento  
-- Estrutura organizada e semântica       
+- Estrutura organizada e semântica                       
 - Layout responsivo  
 - Interações dinâmicas com JavaScript  
 - Experiência fluida para o usuário                                             
