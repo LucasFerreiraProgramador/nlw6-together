@@ -11,7 +11,7 @@ A aplicação foi construída acompanhando as aulas do evento, aplicando conceit
 - Estrutura organizada e semântica       
 - Layout responsivo  
 - Interações dinâmicas com JavaScript  
-- Experiência fluida para o usuário  
+- Experiência fluida para o usuário                                             
 
 ---
 
